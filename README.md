@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Ritesh Kumar Jena`
+- **CCID:** `rkjena`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+https://firebase.google.com/docs/android/setup
 
 ## Verbal Collaboration
 
